@@ -1,10 +1,5 @@
 #**************************************************************************************
-#* Course         : Data Mining for Business Analytics                                *
-#* Modude Code    : MIS40970                                                          *
-#* Assignment No  : 1                                                                 *
-#* Question No    : 4                                                                 *
-#* Student No     : 15200039                                                          *
-#* Author         : Tom George                                                        *
+# ADULT UCI data analytics -                                                     *
 # *************************************************************************************
 # Loading required packages
 library(arules)  # package to load the data AdultUCI
