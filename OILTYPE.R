@@ -1,10 +1,5 @@
 #**************************************************************************************
-#* Course         : Data Mining for Business Analytics                                *
-#* Modude Code    : MIS40970                                                          *
-#* Assignment No  : 1                                                                 *
-#* Question No    : 3                                                                 *
-#* Student No     : 15200039                                                          *
-#* Author         : Tom George                                                        *
+#* OILTYPE       DATA MINING                               *                                *
 # *************************************************************************************
 
 # Loading Required Packages
