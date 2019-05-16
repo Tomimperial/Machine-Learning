@@ -1,10 +1,5 @@
 #**************************************************************************************
-#* Course         : Data Mining for Business Analytics                                *
-#* Modude Code    : MIS40970                                                          *
-#* Assignment No  : 1                                                                 *
-#* Question No    : 5                                                                 *
-#* Student No     : 15200039                                                          *
-#* Author         : Tom George                                                        *
+# USARREST DATA 
 # *************************************************************************************
 # Load the given data
 df<-read.csv('C:/Users/tomge/Downloads/USArrests.csv')
